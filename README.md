@@ -1,6 +1,6 @@
 ### Hello world ✨
 
-*Meu nome é Jersyla Veida Lima Tavares e eu sou uma estudante de 18 anos procurando por oportunidades de emprego enriqueçam meu aprendizado sobre tecnologias e aprimorem minha carreira!*
+*Meu nome é Jersyla Veida Lima Tavares e eu sou uma estudante de 18 anos procurando por oportunidades de emprego que enriqueçam meu aprendizado sobre tecnologias e aprimorem minha carreira!*
 
 - 👀 Atualmente não trabalho e estou em busca de contratações 
 - 👩‍💻 Estudando o mundo pelos olhos da tecnologia 
