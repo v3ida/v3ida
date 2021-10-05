@@ -5,7 +5,7 @@
 - 👀 Atualmente não trabalho e estou em busca de contratações 
 - 👩‍💻 Estudando o mundo pelos olhos da tecnologia 
 - 🎒 Concluindo curso técnico em Informática 
-- 🖥️ Tenho interesse por design, front-end e sites ou aplicações web 
+- 🖥️ Tenho interesse por design, front-end e sites ou aplicações web (client-side) 
 
   
  <div>
