@@ -1,6 +1,6 @@
 ### Hello world ✨
 
-*Meu nome é Jersyla Veida Lima Tavares e eu sou uma estudante de 18 anos procurando por oportunidades de emprego que enriqueçam meu aprendizado sobre tecnologias e aprimorem minha carreira!*
+*Meu nome é Jersyla Veida Lima Tavares e eu sou uma estudante de 18 anos.*
 
 - 🎒 Concluindo curso técnico em Informática 
 - 🖥️ Tenho interesse por design, front-end e sites ou aplicações web (client-side) 
@@ -16,6 +16,7 @@
   <img align="center" alt="meu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="meu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="meu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="meu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <!--  <img align="right" height="180em" alt="meu-gif" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv">  
     </div> -->
   
