@@ -2,8 +2,6 @@
 
 *Meu nome é Jersyla Veida Lima Tavares e eu sou uma estudante de 18 anos procurando por oportunidades de emprego que enriqueçam meu aprendizado sobre tecnologias e aprimorem minha carreira!*
 
-- 👀 Atualmente não trabalho e estou em busca de contratações 
-- 👩‍💻 Estudando o mundo pelos olhos da tecnologia 
 - 🎒 Concluindo curso técnico em Informática 
 - 🖥️ Tenho interesse por design, front-end e sites ou aplicações web (client-side) 
 
