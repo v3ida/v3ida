@@ -4,6 +4,7 @@
 
 - 🎒 Concluindo curso técnico em Informática 
 - 🖥️ Tenho interesse por design, front-end e sites ou aplicações web (client-side) 
+- Aprendendo HTML, CSS, JS e Java
 
   
  <div>
