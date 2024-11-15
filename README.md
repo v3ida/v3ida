@@ -2,10 +2,10 @@
 
 *Meu nome é Jersyla Veida, e eu sou e desenvolvedora de software*
 
-- 🎓 Também sou técnica em Informática 
-- 🖥️ Tenho interesse por programação e qualidade de software 
+- 🎓 Sou graduada em Análise e Desenvolvimento de Sistemas / Técnica em Informática 
+- 🖥️ Tenho interesse por data e IA 
 - 👩‍💻 Desenvolvimento Back-end
-- 🛠️ Aprendendo JavaScript, HTML, CSS, Angular
+<!-- - 🛠️ Aprendendo JavaScript, HTML, CSS, Angular -->
 
   
  <div>
