@@ -5,8 +5,7 @@
 - 🎓 Sou graduada em Análise e Desenvolvimento de Sistemas / Técnica em Informática 
 - 🖥️ Tenho interesse por data e IA 
 - 👩‍💻 Desenvolvimento Back-end
-<!-- - 🛠️ Aprendendo JavaScript, HTML, CSS, Angular -->
-
+- 🛠️ Estudando Front-end (HTML, CSS, TS, Angular)
   
  <div>
   <a href="https://github.com/v3ida">
@@ -15,9 +14,9 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="meu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="meu-Sprinh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="meu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="meu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="meu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="meu-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="meu-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 
   <img align="right" height="200em" alt="meu-gif" src="https://tenor.com/view/notebook-pc-laptop-work-pink-gif-16825020.gif">  
